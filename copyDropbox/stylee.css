@@ -1,0 +1,65 @@
+.figure img{
+    height: 300px;
+    width: 300px;
+    
+}
+.figure{
+    margin: 40px 0px 0px;
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+}
+#errorbox{
+    
+    margin: 0px 382.5px;
+    padding: 0px 20px;
+    line-height: 1.6em;
+    word-wrap: break-word;
+    color: #444444;
+    font-size: 16px;
+    font-family:  "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+
+}
+#errorbox .not-found h1 {
+    color: rgba(0,0,0,0.75);
+    font-size: 38px;
+    font-weight: lighter;
+    line-height: 47px;
+}
+#errorbox .not-found{
+    color: rgba(0,0,0,0.75);
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 36px;
+    text-align: center;
+}
+
+#errorbox .not-found--links {
+    margin: 48px 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+}
+#errorbox h1 {
+    color: #222;
+    font-size: 1.5em;
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.not-found--links ul{
+    list-style-type: none;
+    line-height: 20px;
+    margin-right: 35px;
+    
+}
+#errorbox .not-found--links ul li {
+    margin-top: 10px;
+}
+a{
+    text-decoration:none;
+    color: #005FF8
+}
+a:hover{
+    text-decoration:underline
+}
